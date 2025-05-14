@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sejakom/static/css/main.e6c13ad2.css",
+    "main.js": "/sejakom/static/js/main.193f8147.js",
+    "static/js/453.1d6e44b3.chunk.js": "/sejakom/static/js/453.1d6e44b3.chunk.js",
+    "index.html": "/sejakom/index.html",
+    "main.e6c13ad2.css.map": "/sejakom/static/css/main.e6c13ad2.css.map",
+    "main.193f8147.js.map": "/sejakom/static/js/main.193f8147.js.map",
+    "453.1d6e44b3.chunk.js.map": "/sejakom/static/js/453.1d6e44b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.193f8147.js"
+  ]
+}
